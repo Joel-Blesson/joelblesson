@@ -3,7 +3,7 @@
 🎓 Final-year CSE student | Aspiring SDE & Cloud Engineer  
 💻 Practicing DSA & Full Stack Web Dev  
 📊 Exploring System Design & DevOps  
-🛠️ Currently solving LeetCode daily and learning SQL & Java
+🛠️ Currently solving LeetCode daily and learning SQL & Java & MERN
 
 ### 🔧 Tools & Technologies
 - Languages: Java, SQL, Python (beginner)
